@@ -1,0 +1,11 @@
+CustomerID,Full Name,email_address,Phone #,DOB,Street Address,City,State,Zip,signup_dt,acct_status
+C-1001,Avery Morgan,avery.morgan@example.com,(415) 555-0134,1988-04-12,18 Market St,San Francisco,CA,94105,2022-01-14,active
+C-1002,Jordan Lee,jordan.lee@example.com,4155550188,02/19/1991,220 Pine Avenue,Seattle,WA,98101,03/08/2021,Active
+C-1003,Sam Patel,sam.patel.example.com,,1990-11-03,7 Lake Road,Austin,TX,78701,2023-06-30,pending
+C-1004,Riley Chen,riley.chen@example.com,+1 212 555 0145,not-a-date,90 Broadway,New York,NY,10007,2020/05/17,active
+C-1004,Taylor Brooks,taylor.brooks@example.com,212-555-0102,1979-06-22,44 West 20th St,New York,NY,10011,2022-09-01,paused
+C-1006,Casey Rivera,casey.rivera@example.com, 312-555-0199 ,1985-12-02,510 State Street,Chicago,IL,60605,2024-02-29,Active
+C-1007,Quinn Foster,quinn.foster@example.com,617.555.0177,07/04/1982,12 Beacon Hill,Boston,MA,02108,2021-10-10,active
+C-1008,Emerson Kim,emerson.kim@example.com,206-555-0120,1994-08-16,301 Cedar Lane,Portland,OR,97205,2023-01-05,trial
+C-1009,Rowan Diaz,rowan.diaz@example.com,303 555 0155,1987/03/23,88 Union Blvd,Denver,CO,80202,2020-12-19,active
+C-1010,Jamie Wilson,jamie.wilson@example.com,2025550107,1992-09-30,5 Capitol Plaza,Washington,DC,20001,2024-01-08,Active
